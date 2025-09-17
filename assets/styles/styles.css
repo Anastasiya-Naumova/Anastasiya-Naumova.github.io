@@ -200,9 +200,9 @@ a:hover {
     margin-bottom: 1.8rem;
 }
 .content__main-item certificate {
-    max-width: 500px;
+    max-width: 300px;
     height: auto;
-    margin-right: 0px;
+    margin-right: 10px;
     border-radius: 0px;
 }
 
@@ -211,13 +211,6 @@ a:hover {
     height: auto;
     margin-right: 10px;
     border-radius: 25px;
-}
-
-.content__main-item.project9 img {
-    max-width: 200px;
-    height: auto;
-    margin-right: 10px;
-    border-radius: 0px;
 }
 
 .main-item__description img {
