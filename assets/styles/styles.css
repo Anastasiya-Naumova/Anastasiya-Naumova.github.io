@@ -199,7 +199,7 @@ a:hover {
     line-height: 1.8rem;
     margin-bottom: 1.8rem;
 }
-.content__main-item.certificate {
+.content__main-item certificate {
     max-width: 300px;
     height: auto;
     margin-right: 10px;
