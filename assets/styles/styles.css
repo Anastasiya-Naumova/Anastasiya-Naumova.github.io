@@ -206,6 +206,13 @@ a:hover {
     border-radius: 25px;
 }
 
+.content__main-item.project9 img {
+    max-width: 200px;
+    height: auto;
+    margin-right: 10px;
+    border-radius: 0px;
+}
+
 .main-item__description img {
     border-radius: 25px;
 }
