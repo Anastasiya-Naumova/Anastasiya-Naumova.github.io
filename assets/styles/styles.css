@@ -275,3 +275,11 @@ a:hover {
     height: 22px;
     margin-right: 4px;
 }
+
+table {
+  border-collapse: separate;
+  border-spacing: 50px 0;
+}
+td {
+  padding: 10px 0;
+}
